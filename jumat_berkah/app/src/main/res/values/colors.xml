@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="balcks">#2c2c2c</color>
+    <color name="baksc">#181818</color>
+    <color name="lock">#101010</color>
+    <color name="baskx">#414141</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#8945bf</color>
+    <color name="ungus">#9152c3</color>
+    <color name="unguss">#9c64c9</color>
+    <color name="iungs">#331948</color>
+
+</resources>

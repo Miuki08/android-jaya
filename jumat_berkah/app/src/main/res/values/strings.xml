@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Sayang Aku</string>
+    <!-- String untuk deskripsi divider -->
+    <string name="divider_description">Divider line</string>
+
+    <!-- String untuk deskripsi gambar -->
+    <string name="image_description">App logo</string>
+
+    <!-- String untuk teks login -->
+    <string name="login_text">LOGIN</string>
+    <string name="login_description">Login section</string>
+
+    <!-- String untuk label username -->
+    <string name="username_label">Username kamu</string>
+    <string name="username_label_description">Enter your username</string>
+
+    <!-- String untuk hint username -->
+    <string name="username_hint">Masukkan Username</string>
+
+    <!-- String untuk label email -->
+    <string name="email_label">email kamu</string>
+    <string name="email_label_description">Enter your email</string>
+
+    <!-- String untuk hint username -->
+    <string name="email_hint">Masukkan Email</string>
+
+    <!-- String untuk label password -->
+    <string name="password_label">Password Kamu</string>
+    <string name="password_label_description">Enter your password</string>
+
+    <!-- String untuk hint password -->
+    <string name="password_hint">Masukkan Password</string>
+
+    <!-- String untuk tombol login -->
+    <string name="login_button_text">LOGIN</string>
+    <string name="login_button_description">Login button</string>
+
+    <!-- Register Time -->
+    <string name="register_time">Register</string>
+
+    <!-- String untuk tombol register -->
+    <string name="register_button_text">Register</string>
+    <string name="register_button_description">Register button</string>
+
+    <string name="daftar_bunga">Daftar Bunga</string>
+</resources>
